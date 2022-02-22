@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;productreview.ReviewCollectror.java&apos; to &apos;ReviewCollector.java&apos;&#x0A;- Original project: &apos;2020practiceexam1frq&apos;&#x0A;- Original element: &apos;productreview.ReviewCollectror.java&apos;&#x0A;- Renamed element: &apos;productreview.ReviewCollector.java&apos;" description="Rename compilation unit &apos;ReviewCollectror.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;productreview{ReviewCollectror.java" name="ReviewCollector.java" references="false" stamp="1620958389424" version="1.0"/>
+</session>

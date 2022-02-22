@@ -1,0 +1,66 @@
+package gamespinner;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		String[] names= {"abc","def","ghi","jkl","abc1","def1","ghi1","jkl1","abc2","def2","ghi2","jkl2","abc3","def3","ghi3","jkl3","abc4","def4","ghi4","jkl4","abc5","def5","ghi5"};
+		String[] ids= {"100","200","300"};
+		
+		for(int i=0;i<names.length;i++) {
+			int ind=i%ids.length;
+			System.out.println("names length: "+names.length+", index :"+ind);
+			System.out.println("name: "+names[i]+", id :"+ids[ind]);
+		}
+		
+	}
+
+}
+
+names length: 24, index :0
+name: abc, id :100
+names length: 24, index :1
+name: def, id :200
+names length: 24, index :2
+name: ghi, id :300
+names length: 24, index :0
+name: jkl, id :100
+names length: 24, index :1
+name: abc1, id :200
+names length: 24, index :2
+name: def1, id :300
+names length: 24, index :0
+name: ghi1, id :100
+names length: 24, index :1
+name: jkl1, id :200
+names length: 24, index :2
+name: abc2, id :300
+names length: 24, index :0
+name: def2, id :100
+names length: 24, index :1
+name: ghi2, id :200
+names length: 24, index :2
+name: jkl2, id :300
+names length: 24, index :0
+name: abc3, id :100
+names length: 24, index :1
+name: def3, id :200
+names length: 24, index :2
+name: ghi3, id :300
+names length: 24, index :0
+name: jkl3, id :100
+names length: 24, index :1
+name: abc4, id :200
+names length: 24, index :2
+name: def4, id :300
+names length: 24, index :0
+name: ghi4, id :100
+names length: 24, index :1
+name: jkl4, id :200
+names length: 24, index :2
+name: abc5, id :300
+names length: 24, index :0
+name: def5, id :100
+names length: 24, index :1
+name: ghi5, id :200
+names length: 24, index :2
+name: jkl5, id :300

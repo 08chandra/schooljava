@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;unit9frq.unit9frq&apos; to &apos;Book&apos;&#x0A;- Original project: &apos;unit9frq&apos;&#x0A;- Original element: &apos;unit9frq.unit9frq&apos;&#x0A;- Renamed element: &apos;unit9frq.Book&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;unit9frq&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;unit9frq{unit9frq.java[unit9frq" matchStrategy="1" name="Book" qualified="false" references="true" similarDeclarations="false" stamp="1620790572699" textual="false" version="1.0"/>
+</session>
